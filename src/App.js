@@ -13,7 +13,7 @@ class App extends Component {
       <div className="site-container">
         <Header />
         <main className='main-view'>
-          { routes }
+          {routes}
         </main>
       </div>
     );
